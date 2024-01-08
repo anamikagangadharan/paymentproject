@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,61 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+
+
+# Project Name
+
+Brief project description.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [API Integrations](#api-integrations)
+  - [Invincible Ocean Vehicle API](#invincible-ocean-vehicle-api)
+  - [Razorpay Payment Integration](#razorpay-payment-integration)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Provide a brief introduction to your project.
+
+## Getting Started
+
+### Prerequisites
+
+List any prerequisites or dependencies that need to be installed before running the project.
+
+### Installation
+
+Provide step-by-step instructions on how to install and set up the project.
+
+## Usage
+
+Explain how to use your project.
+
+## API Integrations
+
+### Invincible Ocean Vehicle API
+
+Explain how to integrate and test the Invincible Ocean Vehicle API.
+
+### Razorpay Payment Integration
+
+Explain how to integrate and test Razorpay payment in your project.
+
+## Contributing
+
+Explain how others can contribute to your project.
+
+<!-- ## License -->
+
+<!-- This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details. -->
+
